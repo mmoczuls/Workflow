@@ -11,3 +11,5 @@ editor_options:
 Welcome to my research website.
 
 Hello
+
+wflow_use_github("mmoczuls")
